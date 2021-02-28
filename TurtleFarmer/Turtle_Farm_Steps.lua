@@ -1,3 +1,14 @@
+--[[
+    
+Copyright (C) 2021  Jeff 'Xonze' M
+
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+
+]]--
+
 --day by day
 --We wrote an entire program and it works..but it doesn't. So, we're gonna stop being dumb and do this step by step 
 --and see where we break and it doesn't work as expected.

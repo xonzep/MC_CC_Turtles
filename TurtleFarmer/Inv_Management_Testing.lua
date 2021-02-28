@@ -1,3 +1,14 @@
+--[[
+    
+Copyright (C) 2021  Jeff 'Xonze' M
+
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+
+]]--
+
 --These vars again. Still not sure this is the best way to do it.
 local successI, data = turtle.inspectDown()
 

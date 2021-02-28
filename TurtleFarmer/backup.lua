@@ -1,3 +1,14 @@
+--[[
+    
+Copyright (C) 2021  Jeff 'Xonze' M
+
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+
+]]--
+
 --This actually freaking works!
 --Now we can check what we have selected and then return most of the items so we only carry what we need.
 --But need to code a break somewhere otherwise it loops forever if item isn't there. inv = 16 break should work.

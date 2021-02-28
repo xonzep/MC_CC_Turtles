@@ -1,3 +1,14 @@
+--[[
+    
+Copyright (C) 2021  Jeff 'Xonze' M
+
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+
+]]--
+
 --This went easier than I expected. Works perfectly. We get the item type and amount we want after we suck down from the chest.
 
 local function neededItemAmount (count)

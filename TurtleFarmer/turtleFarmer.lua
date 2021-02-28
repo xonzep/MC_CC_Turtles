@@ -1,3 +1,14 @@
+--[[
+    
+Copyright (C) 2021  Jeff 'Xonze' M
+
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+
+]]--
+
 --This is probably broken as hell. No... it is broken. But gotta start somewhere and I'm sure I've complicated things. Oh well. Farmer Turtle Away!
 --This is just the planting. Have to figure out the harvesting. I just learned how to pass vars in a function and know zero LUA.
 --With that background... what did you expect?
